@@ -6,7 +6,7 @@ void SelectionSort(int a[], int n);
 
 int main()
 {
-    int arr[5] = {56, 17, 9, 32, 7};
+    int arr[5] = {50, 7, 19, 321, 1};
     int i;
 
     printf("Available array:\n");
